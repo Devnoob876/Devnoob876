@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is NoobyPro. I am a student. I like to play games and do programming. I enjoy using frameworks such as React native, React, Vue and I also do a bit of graphical designs such as Logo Designing, Banner, Designing Websites. If you have any queries you can contact me via Discord: .
 
-[![Devnoob876's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devnoob876&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Devnoob876's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devnoob876&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Completed Projects:
 
