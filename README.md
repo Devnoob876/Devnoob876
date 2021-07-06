@@ -6,7 +6,7 @@ My name is NoobyPro. I am a student. I like to play games and do programming(Yea
 ### ✔Completed Projects:
 
 ### 🔭Currently Working on:
-  **Medicine-Reminder app(Framework:React Native)** \n
+  **Medicine-Reminder app(Framework:React Native)**   
   **News Fetcher(Framework:Vue)**
   
   
