@@ -7,7 +7,7 @@ My name is NoobyPro. I am a student. I like to play games and do programming(Yea
 
 ### 🔭Currently Working on:
   * **Medicine-Reminder app(Framework:React Native)**   
-  * **News Fetcher(Framework:Vue)**
+  * **Examination taking website with many features // i dont found any name so yeah(FrameWork: Next.JS)**
   
   
 ### ⚡Fun Facts: 
